@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "rcli"
+name = "rust-template"
 version = "0.1.0"
